@@ -163,7 +163,11 @@ int getByte(int x, int n) {
  *   Rating: 3 
  */
 int logicalShift(int x, int n) {
-  return 2;
+  int tmp = !(!n); //get 1 except n=0
+  //printf("%d", tmp);
+  int tmp2 = tmp<<31>>n<<1;
+  //printf("%d", tmp2);
+  return ~tmp2 & (x>>n);
 }
 /*
  * bitCount - returns count of number of 1's in word
