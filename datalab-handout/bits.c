@@ -229,7 +229,14 @@ int tmin(void) {
  *   Rating: 2
  */
 int fitsBits(int x, int n) {
-  return 2;
+  int minus1 = 0x1<<31>>31;
+  int tmp = minus1<<(n+minus1);
+  int sign = (x>>31) & 0x1;
+  int c = (x & tmp) + (sign<<(n+minus1));
+  int tmp2 = (n + minus1 + minus1)>>31;
+  // printf("%d\t%d\n", x, n);
+  // printf("%d\n%d\n%d\n",minus1,tmp,sign);
+  return !c;
 }
 /* 
  * divpwr2 - Compute x/(2^n), for 0 <= n <= 30
