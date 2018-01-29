@@ -177,7 +177,27 @@ int logicalShift(int x, int n) {
  *   Rating: 4
  */
 int bitCount(int x) {
-  return 2;
+  //https://stackoverflow.com/questions/3815165/how-to-implement-bitcount-using-only-bitwise-operators
+  int tmp1 = 0x55;
+  int tmp2 = 0x33;
+  int tmp3 = 0x0F;
+  int tmp4 = 0xFF;
+  int tmp5 = 0xFF;
+  int c = 0;
+  tmp1 = (tmp1<<8) + tmp1;
+  tmp1 = (tmp1<<16) + tmp1;
+  c = ((x>>1) & tmp1) + (x & tmp1);
+  tmp2 = (tmp2<<8) + tmp2;
+  tmp2 = (tmp2<<16) + tmp2;
+  c = (c & tmp2) + ((c>>2) & tmp2);
+  tmp3 = (tmp3<<8) + tmp3;
+  tmp3 = (tmp3<<16) + tmp3;
+  c = (c & tmp3) + ((c>>4) & tmp3);
+  tmp4 = (tmp4<<16) + tmp4;
+  c = (c & tmp4) + ((c>>8) & tmp4);
+  tmp5 = (tmp5<<8) + tmp5;
+  c = (c & tmp5) + ((c>>16) & tmp5);
+  return c;
 }
 /* 
  * bang - Compute !x without using !
@@ -187,7 +207,8 @@ int bitCount(int x) {
  *   Rating: 4 
  */
 int bang(int x) {
-  return 2;
+  int sign = x | ((~x) + 1);
+  return (sign>>31) + 1;
 }
 /* 
  * tmin - return minimum two's complement integer 
@@ -196,7 +217,7 @@ int bang(int x) {
  *   Rating: 1
  */
 int tmin(void) {
-  return 2;
+  return 1<<31;
 }
 /* 
  * fitsBits - return 1 if x can be represented as an 
