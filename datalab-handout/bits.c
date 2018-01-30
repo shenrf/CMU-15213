@@ -268,7 +268,6 @@ int negate(int x) {
  */
 int isPositive(int x) {
   //int minus1 = 0x1<<31>>31;
-  //int 
   return (!((x>>31) & 0x1))& (!(!x));
 }
 /* 
@@ -279,7 +278,19 @@ int isPositive(int x) {
  *   Rating: 3
  */
 int isLessOrEqual(int x, int y) {
-  return 2;
+  int negX = ~x+1;
+   int addY = negX + y; /*negative if x > y*/
+   int checkSign = addY >> 31 & 1; /*shifts sign bit to the right*/
+
+   /*the above will not work for values that push the bounds of ints
+     the following code checks very large/small values*/
+   int leftBit = 1 << 31;
+   int xLeft = leftBit & x;
+   int yLeft = leftBit & y;
+   int xOrd = xLeft ^ yLeft;
+   xOrd = (xOrd >> 31) & 1;
+ 
+   return (xOrd & (xLeft>>31)) | (!checkSign & !xOrd);
 }
 /*
  * ilog2 - return floor(log base 2 of x), where x > 0
@@ -303,7 +314,15 @@ int ilog2(int x) {
  *   Rating: 2
  */
 unsigned float_neg(unsigned uf) {
- return 2;
+   int nanCheck = 0x000000FF << 23; /*1's in the 8 exponent bits*/
+   int frac = 0x7FFFFF & uf; /*contains just the fraction value*/
+
+   /*return argument if exp bits are all 1's and frac is not zero*/
+   if(((nanCheck & uf) == nanCheck) && frac)
+      return uf;
+
+   /*otherwise, just flip the sign bit*/
+   return uf ^ (1 << 31);
 }
 /* 
  * float_i2f - Return bit-level equivalent of expression (float) x
