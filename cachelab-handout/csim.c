@@ -21,9 +21,9 @@ int main(int argc, char** argv) {
     char* t = 0;
     int c = 0; 
     int b = 0;
-    int miss = 0;
-    int hit = 0;
-    int eviction = 0;
+    long miss = 0;
+    long hit = 0;
+    long eviction = 0;
     while((c = getopt(argc, argv, "s:E:t:b:")) != -1) {
         switch(c) {
             case 'E':
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
             }else {
                 if(sets[op_idx][0].tag == op_tag) {
                     if(address <= sets[op_idx][0].max && address >= sets[op_idx][0].min){
-                		hit += 1;
+                		hit += 2;
                 	}else {
                 		miss += 1;
                 		hit += 1;
