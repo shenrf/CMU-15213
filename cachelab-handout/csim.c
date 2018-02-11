@@ -202,9 +202,9 @@ int main(int argc, char** argv) {
         	}
         	postProcess(sets[op_idx], E, temp_idx);
         }
-        printf("%ld index, %d subset, %ld, %ld, %ld, \n", op_idx, temp_idx, op_tag, op_min, op_max);
-        printSummary(hit, miss, eviction);
-        printf("\n");
+        //printf("%ld index, %d subset, %ld, %ld, %ld, \n", op_idx, temp_idx, op_tag, op_min, op_max);
+        //printSummary(hit, miss, eviction);
+        //printf("\n");
        // printf("%c", access_type);
        // printf("%lx", address);
        // printf("%d", size);
