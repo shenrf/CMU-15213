@@ -1,0 +1,1791 @@
+213
+traces/trans.trace
+0 index, 0 subset, 196693, 0, -8, 
+hits:0 misses:1 evictions:0
+
+2 index, -1 subset, 131117, 6, -2, 
+hits:0 misses:1 evictions:0
+
+3 index, -1 subset, 131117, 3, -5, 
+hits:0 misses:1 evictions:0
+
+0 index, -1 subset, 131118, 0, -8, 
+hits:0 misses:1 evictions:0
+
+3 index, 0 subset, 133693468, 0, -8, 
+hits:0 misses:2 evictions:0
+
+3 index, -1 subset, 131112, 6, -2, 
+hits:0 misses:2 evictions:0
+
+2 index, 0 subset, 133693468, 0, -8, 
+hits:0 misses:3 evictions:0
+
+3 index, -1 subset, 131112, 7, -1, 
+hits:0 misses:3 evictions:0
+
+0 index, -1 subset, 131113, 2, -6, 
+hits:0 misses:3 evictions:0
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:0 misses:4 evictions:1
+
+0 index, -1 subset, 131113, 6, -2, 
+hits:0 misses:4 evictions:1
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:0 misses:5 evictions:2
+
+1 index, -1 subset, 131113, 2, -6, 
+hits:0 misses:5 evictions:2
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:0 misses:6 evictions:3
+
+2 index, -1 subset, 131113, 1, -7, 
+hits:0 misses:6 evictions:3
+
+0 index, -1 subset, 131116, 1, -7, 
+hits:0 misses:6 evictions:3
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:1 misses:6 evictions:3
+
+0 index, -1 subset, 131116, 5, -3, 
+hits:1 misses:6 evictions:3
+
+2 index, -1 subset, 131113, 3, -5, 
+hits:1 misses:6 evictions:3
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:1 misses:7 evictions:3
+
+3 index, -1 subset, 131113, 2, -6, 
+hits:1 misses:7 evictions:3
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:1 misses:7 evictions:3
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:2 misses:7 evictions:3
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:2 misses:7 evictions:3
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:2 misses:7 evictions:3
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:3 misses:7 evictions:3
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:3 misses:7 evictions:3
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:3 misses:7 evictions:3
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:3 misses:7 evictions:3
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:3 misses:7 evictions:3
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:4 misses:7 evictions:3
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:4 misses:7 evictions:3
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:5 misses:7 evictions:3
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:5 misses:7 evictions:3
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:5 misses:7 evictions:3
+
+0 index, 0 subset, 196689, 0, -8, 
+hits:5 misses:8 evictions:4
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:5 misses:8 evictions:4
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:6 misses:8 evictions:4
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:6 misses:8 evictions:4
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:7 misses:8 evictions:4
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:7 misses:8 evictions:4
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:7 misses:8 evictions:4
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:7 misses:8 evictions:4
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:7 misses:8 evictions:4
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:8 misses:8 evictions:4
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:8 misses:8 evictions:4
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:8 misses:9 evictions:5
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:8 misses:9 evictions:5
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:8 misses:9 evictions:5
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:9 misses:9 evictions:5
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:9 misses:9 evictions:5
+
+0 index, 0 subset, 196691, 0, -8, 
+hits:9 misses:10 evictions:6
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:9 misses:10 evictions:6
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:11 misses:10 evictions:6
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:11 misses:10 evictions:6
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:12 misses:10 evictions:6
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:12 misses:10 evictions:6
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:12 misses:10 evictions:6
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:12 misses:11 evictions:7
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:12 misses:11 evictions:7
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:12 misses:11 evictions:7
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:12 misses:11 evictions:7
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:12 misses:11 evictions:7
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:13 misses:11 evictions:7
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:13 misses:11 evictions:7
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:14 misses:11 evictions:7
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:14 misses:11 evictions:7
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:14 misses:11 evictions:7
+
+0 index, 0 subset, 196689, 4, -4, 
+hits:14 misses:12 evictions:8
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:14 misses:12 evictions:8
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:15 misses:12 evictions:8
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:15 misses:12 evictions:8
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:16 misses:12 evictions:8
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:16 misses:12 evictions:8
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:16 misses:12 evictions:8
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:16 misses:12 evictions:8
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:16 misses:12 evictions:8
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:17 misses:12 evictions:8
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:17 misses:12 evictions:8
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:17 misses:13 evictions:9
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:17 misses:13 evictions:9
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:17 misses:13 evictions:9
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:18 misses:13 evictions:9
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:18 misses:13 evictions:9
+
+2 index, 0 subset, 196691, 0, -8, 
+hits:18 misses:14 evictions:10
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:18 misses:14 evictions:10
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:20 misses:14 evictions:10
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:20 misses:14 evictions:10
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:21 misses:14 evictions:10
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:21 misses:14 evictions:10
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:21 misses:14 evictions:10
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:22 misses:14 evictions:10
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:22 misses:14 evictions:10
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:22 misses:14 evictions:10
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:22 misses:14 evictions:10
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:22 misses:14 evictions:10
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:23 misses:14 evictions:10
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:23 misses:14 evictions:10
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:24 misses:14 evictions:10
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:24 misses:14 evictions:10
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:24 misses:14 evictions:10
+
+1 index, 0 subset, 196689, 0, -8, 
+hits:24 misses:15 evictions:11
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:24 misses:15 evictions:11
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:24 misses:16 evictions:12
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:24 misses:16 evictions:12
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:25 misses:16 evictions:12
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:25 misses:16 evictions:12
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:25 misses:16 evictions:12
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:25 misses:16 evictions:12
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:25 misses:16 evictions:12
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:25 misses:17 evictions:13
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:25 misses:17 evictions:13
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:26 misses:17 evictions:13
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:26 misses:17 evictions:13
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:26 misses:17 evictions:13
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:27 misses:17 evictions:13
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:27 misses:17 evictions:13
+
+0 index, 0 subset, 196692, 0, -8, 
+hits:27 misses:18 evictions:14
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:27 misses:18 evictions:14
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:29 misses:18 evictions:14
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:29 misses:18 evictions:14
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:30 misses:18 evictions:14
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:30 misses:18 evictions:14
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:30 misses:18 evictions:14
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:30 misses:19 evictions:15
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:30 misses:19 evictions:15
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:30 misses:19 evictions:15
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:30 misses:19 evictions:15
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:30 misses:19 evictions:15
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:31 misses:19 evictions:15
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:31 misses:19 evictions:15
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:32 misses:19 evictions:15
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:32 misses:19 evictions:15
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:32 misses:19 evictions:15
+
+1 index, 0 subset, 196689, 4, -4, 
+hits:32 misses:20 evictions:16
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:32 misses:20 evictions:16
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:32 misses:21 evictions:17
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:32 misses:21 evictions:17
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:33 misses:21 evictions:17
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:33 misses:21 evictions:17
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:33 misses:21 evictions:17
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:33 misses:21 evictions:17
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:33 misses:21 evictions:17
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:34 misses:21 evictions:17
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:34 misses:21 evictions:17
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:35 misses:21 evictions:17
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:35 misses:21 evictions:17
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:35 misses:21 evictions:17
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:36 misses:21 evictions:17
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:36 misses:21 evictions:17
+
+2 index, 0 subset, 196692, 0, -8, 
+hits:36 misses:22 evictions:18
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:36 misses:22 evictions:18
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:38 misses:22 evictions:18
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:38 misses:22 evictions:18
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:39 misses:22 evictions:18
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:39 misses:22 evictions:18
+
+3 index, -1 subset, 131115, 5, -3, 
+hits:39 misses:22 evictions:18
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:41 misses:22 evictions:18
+
+0 index, -1 subset, 131116, 1, -7, 
+hits:41 misses:22 evictions:18
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:42 misses:22 evictions:18
+
+0 index, -1 subset, 131116, 5, -3, 
+hits:42 misses:22 evictions:18
+
+2 index, -1 subset, 131113, 3, -5, 
+hits:42 misses:22 evictions:18
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:43 misses:22 evictions:18
+
+3 index, -1 subset, 131113, 2, -6, 
+hits:43 misses:22 evictions:18
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:43 misses:22 evictions:18
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:44 misses:22 evictions:18
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:44 misses:22 evictions:18
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:44 misses:22 evictions:18
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:45 misses:22 evictions:18
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:45 misses:22 evictions:18
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:45 misses:22 evictions:18
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:45 misses:22 evictions:18
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:45 misses:22 evictions:18
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:46 misses:22 evictions:18
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:46 misses:22 evictions:18
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:47 misses:22 evictions:18
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:47 misses:22 evictions:18
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:47 misses:22 evictions:18
+
+2 index, 0 subset, 196689, 0, -8, 
+hits:47 misses:23 evictions:19
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:47 misses:23 evictions:19
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:48 misses:23 evictions:19
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:48 misses:23 evictions:19
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:49 misses:23 evictions:19
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:49 misses:23 evictions:19
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:49 misses:23 evictions:19
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:49 misses:23 evictions:19
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:49 misses:23 evictions:19
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:49 misses:24 evictions:20
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:49 misses:24 evictions:20
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:50 misses:24 evictions:20
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:50 misses:24 evictions:20
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:50 misses:24 evictions:20
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:51 misses:24 evictions:20
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:51 misses:24 evictions:20
+
+0 index, 0 subset, 196691, 4, -4, 
+hits:51 misses:25 evictions:21
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:51 misses:25 evictions:21
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:53 misses:25 evictions:21
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:53 misses:25 evictions:21
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:54 misses:25 evictions:21
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:54 misses:25 evictions:21
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:54 misses:25 evictions:21
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:54 misses:26 evictions:22
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:54 misses:26 evictions:22
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:54 misses:26 evictions:22
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:54 misses:26 evictions:22
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:54 misses:26 evictions:22
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:55 misses:26 evictions:22
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:55 misses:26 evictions:22
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:56 misses:26 evictions:22
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:56 misses:26 evictions:22
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:56 misses:26 evictions:22
+
+2 index, 0 subset, 196689, 4, -4, 
+hits:56 misses:27 evictions:23
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:56 misses:27 evictions:23
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:57 misses:27 evictions:23
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:57 misses:27 evictions:23
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:58 misses:27 evictions:23
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:58 misses:27 evictions:23
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:58 misses:27 evictions:23
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:58 misses:27 evictions:23
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:58 misses:27 evictions:23
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:58 misses:28 evictions:24
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:58 misses:28 evictions:24
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:59 misses:28 evictions:24
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:59 misses:28 evictions:24
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:59 misses:28 evictions:24
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:60 misses:28 evictions:24
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:60 misses:28 evictions:24
+
+2 index, 0 subset, 196691, 4, -4, 
+hits:60 misses:29 evictions:25
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:60 misses:29 evictions:25
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:62 misses:29 evictions:25
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:62 misses:29 evictions:25
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:63 misses:29 evictions:25
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:63 misses:29 evictions:25
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:63 misses:29 evictions:25
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:64 misses:29 evictions:25
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:64 misses:29 evictions:25
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:64 misses:29 evictions:25
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:64 misses:29 evictions:25
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:64 misses:29 evictions:25
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:65 misses:29 evictions:25
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:65 misses:29 evictions:25
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:66 misses:29 evictions:25
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:66 misses:29 evictions:25
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:66 misses:29 evictions:25
+
+3 index, 0 subset, 196689, 0, -8, 
+hits:66 misses:30 evictions:26
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:66 misses:30 evictions:26
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:67 misses:30 evictions:26
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:67 misses:30 evictions:26
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:68 misses:30 evictions:26
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:68 misses:30 evictions:26
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:68 misses:30 evictions:26
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:68 misses:30 evictions:26
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:68 misses:30 evictions:26
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:68 misses:31 evictions:27
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:68 misses:31 evictions:27
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:69 misses:31 evictions:27
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:69 misses:31 evictions:27
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:69 misses:31 evictions:27
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:70 misses:31 evictions:27
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:70 misses:31 evictions:27
+
+0 index, 0 subset, 196692, 4, -4, 
+hits:70 misses:32 evictions:28
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:70 misses:32 evictions:28
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:72 misses:32 evictions:28
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:72 misses:32 evictions:28
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:73 misses:32 evictions:28
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:73 misses:32 evictions:28
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:73 misses:32 evictions:28
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:73 misses:33 evictions:29
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:73 misses:33 evictions:29
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:73 misses:33 evictions:29
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:73 misses:33 evictions:29
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:73 misses:33 evictions:29
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:73 misses:34 evictions:30
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:73 misses:34 evictions:30
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:74 misses:34 evictions:30
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:74 misses:34 evictions:30
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:74 misses:34 evictions:30
+
+3 index, 0 subset, 196689, 4, -4, 
+hits:74 misses:35 evictions:31
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:74 misses:35 evictions:31
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:75 misses:35 evictions:31
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:75 misses:35 evictions:31
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:76 misses:35 evictions:31
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:76 misses:35 evictions:31
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:76 misses:35 evictions:31
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:76 misses:35 evictions:31
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:76 misses:35 evictions:31
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:77 misses:35 evictions:31
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:77 misses:35 evictions:31
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:78 misses:35 evictions:31
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:78 misses:35 evictions:31
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:78 misses:35 evictions:31
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:79 misses:35 evictions:31
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:79 misses:35 evictions:31
+
+2 index, 0 subset, 196692, 4, -4, 
+hits:79 misses:36 evictions:32
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:79 misses:36 evictions:32
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:81 misses:36 evictions:32
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:81 misses:36 evictions:32
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:82 misses:36 evictions:32
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:82 misses:36 evictions:32
+
+3 index, -1 subset, 131115, 5, -3, 
+hits:82 misses:36 evictions:32
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:84 misses:36 evictions:32
+
+0 index, -1 subset, 131116, 1, -7, 
+hits:84 misses:36 evictions:32
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:85 misses:36 evictions:32
+
+0 index, -1 subset, 131116, 5, -3, 
+hits:85 misses:36 evictions:32
+
+2 index, -1 subset, 131113, 3, -5, 
+hits:85 misses:36 evictions:32
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:86 misses:36 evictions:32
+
+3 index, -1 subset, 131113, 2, -6, 
+hits:86 misses:36 evictions:32
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:86 misses:36 evictions:32
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:87 misses:36 evictions:32
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:87 misses:36 evictions:32
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:87 misses:36 evictions:32
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:88 misses:36 evictions:32
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:88 misses:36 evictions:32
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:88 misses:36 evictions:32
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:88 misses:36 evictions:32
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:88 misses:36 evictions:32
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:88 misses:37 evictions:33
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:88 misses:37 evictions:33
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:89 misses:37 evictions:33
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:89 misses:37 evictions:33
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:89 misses:37 evictions:33
+
+0 index, 0 subset, 196690, 0, -8, 
+hits:89 misses:38 evictions:34
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:89 misses:38 evictions:34
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:90 misses:38 evictions:34
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:90 misses:38 evictions:34
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:91 misses:38 evictions:34
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:91 misses:38 evictions:34
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:91 misses:38 evictions:34
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:91 misses:38 evictions:34
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:91 misses:38 evictions:34
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:91 misses:39 evictions:35
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:91 misses:39 evictions:35
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:91 misses:40 evictions:36
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:91 misses:40 evictions:36
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:91 misses:40 evictions:36
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:92 misses:40 evictions:36
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:92 misses:40 evictions:36
+
+1 index, 0 subset, 196691, 0, -8, 
+hits:92 misses:41 evictions:37
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:92 misses:41 evictions:37
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:93 misses:42 evictions:38
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:93 misses:42 evictions:38
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:94 misses:42 evictions:38
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:94 misses:42 evictions:38
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:94 misses:42 evictions:38
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:95 misses:42 evictions:38
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:95 misses:42 evictions:38
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:95 misses:42 evictions:38
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:95 misses:42 evictions:38
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:95 misses:42 evictions:38
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:96 misses:42 evictions:38
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:96 misses:42 evictions:38
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:97 misses:42 evictions:38
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:97 misses:42 evictions:38
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:97 misses:42 evictions:38
+
+0 index, 0 subset, 196690, 4, -4, 
+hits:97 misses:43 evictions:39
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:97 misses:43 evictions:39
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:98 misses:43 evictions:39
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:98 misses:43 evictions:39
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:99 misses:43 evictions:39
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:99 misses:43 evictions:39
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:99 misses:43 evictions:39
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:99 misses:43 evictions:39
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:99 misses:43 evictions:39
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:100 misses:43 evictions:39
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:100 misses:43 evictions:39
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:100 misses:44 evictions:40
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:100 misses:44 evictions:40
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:100 misses:44 evictions:40
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:101 misses:44 evictions:40
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:101 misses:44 evictions:40
+
+3 index, 0 subset, 196691, 0, -8, 
+hits:101 misses:45 evictions:41
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:101 misses:45 evictions:41
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:103 misses:45 evictions:41
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:103 misses:45 evictions:41
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:104 misses:45 evictions:41
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:104 misses:45 evictions:41
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:104 misses:45 evictions:41
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:105 misses:45 evictions:41
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:105 misses:45 evictions:41
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:105 misses:45 evictions:41
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:105 misses:45 evictions:41
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:105 misses:45 evictions:41
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:105 misses:46 evictions:42
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:105 misses:46 evictions:42
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:106 misses:46 evictions:42
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:106 misses:46 evictions:42
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:106 misses:46 evictions:42
+
+1 index, 0 subset, 196690, 0, -8, 
+hits:106 misses:47 evictions:43
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:106 misses:47 evictions:43
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:106 misses:48 evictions:44
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:106 misses:48 evictions:44
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:107 misses:48 evictions:44
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:107 misses:48 evictions:44
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:107 misses:48 evictions:44
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:107 misses:48 evictions:44
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:107 misses:48 evictions:44
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:108 misses:48 evictions:44
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:108 misses:48 evictions:44
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:109 misses:48 evictions:44
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:109 misses:48 evictions:44
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:109 misses:48 evictions:44
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:110 misses:48 evictions:44
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:110 misses:48 evictions:44
+
+1 index, 0 subset, 196692, 0, -8, 
+hits:110 misses:49 evictions:45
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:110 misses:49 evictions:45
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:111 misses:50 evictions:46
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:111 misses:50 evictions:46
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:112 misses:50 evictions:46
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:112 misses:50 evictions:46
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:112 misses:50 evictions:46
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:113 misses:50 evictions:46
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:113 misses:50 evictions:46
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:113 misses:50 evictions:46
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:113 misses:50 evictions:46
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:113 misses:50 evictions:46
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:114 misses:50 evictions:46
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:114 misses:50 evictions:46
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:115 misses:50 evictions:46
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:115 misses:50 evictions:46
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:115 misses:50 evictions:46
+
+1 index, 0 subset, 196690, 4, -4, 
+hits:115 misses:51 evictions:47
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:115 misses:51 evictions:47
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:115 misses:52 evictions:48
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:115 misses:52 evictions:48
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:116 misses:52 evictions:48
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:116 misses:52 evictions:48
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:116 misses:52 evictions:48
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:116 misses:52 evictions:48
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:116 misses:52 evictions:48
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:117 misses:52 evictions:48
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:117 misses:52 evictions:48
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:118 misses:52 evictions:48
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:118 misses:52 evictions:48
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:118 misses:52 evictions:48
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:119 misses:52 evictions:48
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:119 misses:52 evictions:48
+
+3 index, 0 subset, 196692, 0, -8, 
+hits:119 misses:53 evictions:49
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:119 misses:53 evictions:49
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:121 misses:53 evictions:49
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:121 misses:53 evictions:49
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:122 misses:53 evictions:49
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:122 misses:53 evictions:49
+
+3 index, -1 subset, 131115, 5, -3, 
+hits:122 misses:53 evictions:49
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:124 misses:53 evictions:49
+
+0 index, -1 subset, 131116, 1, -7, 
+hits:124 misses:53 evictions:49
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:125 misses:53 evictions:49
+
+0 index, -1 subset, 131116, 5, -3, 
+hits:125 misses:53 evictions:49
+
+2 index, -1 subset, 131113, 3, -5, 
+hits:125 misses:53 evictions:49
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:126 misses:53 evictions:49
+
+3 index, -1 subset, 131113, 2, -6, 
+hits:126 misses:53 evictions:49
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:126 misses:53 evictions:49
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:127 misses:53 evictions:49
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:127 misses:53 evictions:49
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:127 misses:53 evictions:49
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:128 misses:53 evictions:49
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:128 misses:53 evictions:49
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:128 misses:53 evictions:49
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:128 misses:53 evictions:49
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:128 misses:53 evictions:49
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:128 misses:54 evictions:50
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:128 misses:54 evictions:50
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:129 misses:54 evictions:50
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:129 misses:54 evictions:50
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:129 misses:54 evictions:50
+
+2 index, 0 subset, 196690, 0, -8, 
+hits:129 misses:55 evictions:51
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:129 misses:55 evictions:51
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:130 misses:55 evictions:51
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:130 misses:55 evictions:51
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:131 misses:55 evictions:51
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:131 misses:55 evictions:51
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:131 misses:55 evictions:51
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:131 misses:55 evictions:51
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:131 misses:55 evictions:51
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:131 misses:56 evictions:52
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:131 misses:56 evictions:52
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:132 misses:56 evictions:52
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:132 misses:56 evictions:52
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:132 misses:56 evictions:52
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:133 misses:56 evictions:52
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:133 misses:56 evictions:52
+
+1 index, 0 subset, 196691, 4, -4, 
+hits:133 misses:57 evictions:53
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:133 misses:57 evictions:53
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:134 misses:58 evictions:54
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:134 misses:58 evictions:54
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:135 misses:58 evictions:54
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:135 misses:58 evictions:54
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:135 misses:58 evictions:54
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:136 misses:58 evictions:54
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:136 misses:58 evictions:54
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:136 misses:58 evictions:54
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:136 misses:58 evictions:54
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:136 misses:58 evictions:54
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:137 misses:58 evictions:54
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:137 misses:58 evictions:54
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:138 misses:58 evictions:54
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:138 misses:58 evictions:54
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:138 misses:58 evictions:54
+
+2 index, 0 subset, 196690, 4, -4, 
+hits:138 misses:59 evictions:55
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:138 misses:59 evictions:55
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:139 misses:59 evictions:55
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:139 misses:59 evictions:55
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:140 misses:59 evictions:55
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:140 misses:59 evictions:55
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:140 misses:59 evictions:55
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:140 misses:59 evictions:55
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:140 misses:59 evictions:55
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:140 misses:60 evictions:56
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:140 misses:60 evictions:56
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:141 misses:60 evictions:56
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:141 misses:60 evictions:56
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:141 misses:60 evictions:56
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:142 misses:60 evictions:56
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:142 misses:60 evictions:56
+
+3 index, 0 subset, 196691, 4, -4, 
+hits:142 misses:61 evictions:57
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:142 misses:61 evictions:57
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:144 misses:61 evictions:57
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:144 misses:61 evictions:57
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:145 misses:61 evictions:57
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:145 misses:61 evictions:57
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:145 misses:61 evictions:57
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:146 misses:61 evictions:57
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:146 misses:61 evictions:57
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:146 misses:61 evictions:57
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:146 misses:61 evictions:57
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:146 misses:61 evictions:57
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:146 misses:62 evictions:58
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:146 misses:62 evictions:58
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:147 misses:62 evictions:58
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:147 misses:62 evictions:58
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:147 misses:62 evictions:58
+
+3 index, 0 subset, 196690, 0, -8, 
+hits:147 misses:63 evictions:59
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:147 misses:63 evictions:59
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:148 misses:63 evictions:59
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:148 misses:63 evictions:59
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:149 misses:63 evictions:59
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:149 misses:63 evictions:59
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:149 misses:63 evictions:59
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:149 misses:63 evictions:59
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:149 misses:63 evictions:59
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:150 misses:63 evictions:59
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:150 misses:63 evictions:59
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:151 misses:63 evictions:59
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:151 misses:63 evictions:59
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:151 misses:63 evictions:59
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:152 misses:63 evictions:59
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:152 misses:63 evictions:59
+
+1 index, 0 subset, 196692, 4, -4, 
+hits:152 misses:64 evictions:60
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:152 misses:64 evictions:60
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:153 misses:65 evictions:61
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:153 misses:65 evictions:61
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:154 misses:65 evictions:61
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:154 misses:65 evictions:61
+
+3 index, -1 subset, 131113, 4, -4, 
+hits:154 misses:65 evictions:61
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:155 misses:65 evictions:61
+
+3 index, -1 subset, 131113, 7, -1, 
+hits:155 misses:65 evictions:61
+
+0 index, -1 subset, 131114, 1, -7, 
+hits:155 misses:65 evictions:61
+
+0 index, -1 subset, 131114, 5, -3, 
+hits:155 misses:65 evictions:61
+
+1 index, -1 subset, 131114, 0, -8, 
+hits:155 misses:65 evictions:61
+
+3 index, 0 subset, 133693467, 0, -8, 
+hits:155 misses:66 evictions:62
+
+1 index, -1 subset, 131114, 4, -4, 
+hits:155 misses:66 evictions:62
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:156 misses:66 evictions:62
+
+1 index, -1 subset, 131114, 7, -1, 
+hits:156 misses:66 evictions:62
+
+2 index, -1 subset, 131114, 1, -7, 
+hits:156 misses:66 evictions:62
+
+3 index, 0 subset, 196690, 4, -4, 
+hits:156 misses:67 evictions:63
+
+2 index, -1 subset, 131114, 4, -4, 
+hits:156 misses:67 evictions:63
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:157 misses:67 evictions:63
+
+2 index, -1 subset, 131114, 7, -1, 
+hits:157 misses:67 evictions:63
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:158 misses:67 evictions:63
+
+3 index, -1 subset, 131114, 2, -6, 
+hits:158 misses:67 evictions:63
+
+3 index, -1 subset, 131114, 4, -4, 
+hits:158 misses:67 evictions:63
+
+0 index, -1 subset, 131115, 0, -8, 
+hits:158 misses:67 evictions:63
+
+0 index, -1 subset, 131115, 3, -5, 
+hits:158 misses:67 evictions:63
+
+2 index, 0 subset, 133693467, 0, -8, 
+hits:159 misses:67 evictions:63
+
+0 index, -1 subset, 131115, 7, -1, 
+hits:159 misses:67 evictions:63
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:160 misses:67 evictions:63
+
+1 index, -1 subset, 131115, 2, -6, 
+hits:160 misses:67 evictions:63
+
+1 index, -1 subset, 131115, 5, -3, 
+hits:160 misses:67 evictions:63
+
+1 index, 0 subset, 133693468, 4, -4, 
+hits:161 misses:67 evictions:63
+
+2 index, -1 subset, 131115, 0, -8, 
+hits:161 misses:67 evictions:63
+
+3 index, 0 subset, 196692, 4, -4, 
+hits:161 misses:68 evictions:64
+
+2 index, -1 subset, 131115, 3, -5, 
+hits:161 misses:68 evictions:64
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:163 misses:68 evictions:64
+
+2 index, -1 subset, 131115, 7, -1, 
+hits:163 misses:68 evictions:64
+
+1 index, 0 subset, 133693468, 0, -8, 
+hits:164 misses:68 evictions:64
+
+3 index, -1 subset, 131115, 3, -5, 
+hits:164 misses:68 evictions:64
+
+3 index, -1 subset, 131115, 5, -3, 
+hits:164 misses:68 evictions:64
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:166 misses:68 evictions:64
+
+0 index, -1 subset, 131116, 1, -7, 
+hits:166 misses:68 evictions:64
+
+0 index, 0 subset, 133693468, 4, -4, 
+hits:167 misses:68 evictions:64
+
+0 index, -1 subset, 131116, 5, -3, 
+hits:167 misses:68 evictions:64
+
+0 index, -1 subset, 131116, 7, -1, 
+hits:167 misses:68 evictions:64
+
+2 index, 0 subset, 133693468, 0, -8, 
+hits:167 misses:69 evictions:65
+
+1 index, -1 subset, 131116, 0, -8, 
+hits:167 misses:69 evictions:65
+
+3 index, 0 subset, 133693468, 0, -8, 
+hits:167 misses:70 evictions:66
+
+0 index, -1 subset, 131118, 5, -3, 
+hits:167 misses:70 evictions:66
+
+0 index, 0 subset, 196693, 0, -8, 
+hits:167 misses:71 evictions:67
+
+hits:167 misses:71 evictions:67

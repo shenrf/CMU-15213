@@ -11,8 +11,8 @@ typedef int bool;
 struct Set {
     int tag;
     bool valid;
-    int min;
-    int max;
+    long min;
+    long max;
     int seq;
 };
 
@@ -75,14 +75,23 @@ int main(int argc, char** argv) {
     /* put those in the format string along with the fixed formatting */
     while (fscanf(pFile," %c %lx,%d", &access_type, &address, &size) > 0) {
         //printf("%#010x\n", (int)address);
-        //int temp1 = ~((0x1<<31)>>(31-b));
-        //int op_offset = address & temp1;
-        int temp2 = ~((0x1<<31)>>(31-s));
-        int op_idx = (address >> b) & temp2;
-        int temp3 = ~((0x1<<31)>>(b+s-1));
-        int op_tag = (address >> (b + s)) & temp3;
-        int op_min = address & 0xfffffff0;
-        int op_max = address | 0x0000000f;
+        unsigned long temp1 = 1;
+        for(int i=0;i<b-1;++i){
+            temp1=(temp1<<1) + 1;
+        }
+        unsigned long temp2 = 1;
+        for(int i=0;i<s-1;++i){
+            temp2=(temp2<<1) + 1;
+        }
+        unsigned long temp3 = 1;
+        for(int i=0;i<31-b-s;++i){
+            temp3=(temp3<<1) + 1;
+        }
+        unsigned long op_idx = (address >> b) & temp2;
+        unsigned long op_tag = (address >> (b + s)) & temp3;
+
+        unsigned long op_min = address & temp1;
+        unsigned long op_max = address | (~temp1);
         // printf("%d, %d, %d, %d\n", op_idx, op_tag, op_min, op_max);
         bool flag = false;
     	int temp_idx = -1;
@@ -193,7 +202,7 @@ int main(int argc, char** argv) {
         	}
         	postProcess(sets[op_idx], E, temp_idx);
         }
-        printf("%d index, %d subset, %d, %d, %d, \n", op_idx, temp_idx, op_tag, op_min, op_max);
+        printf("%ld index, %d subset, %ld, %ld, %ld, \n", op_idx, temp_idx, op_tag, op_min, op_max);
         printSummary(hit, miss, eviction);
         printf("\n");
        // printf("%c", access_type);
